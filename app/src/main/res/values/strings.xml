@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M.ILHAM_1202152174_MODUL2</string>
+
+    <string-array name="nomeja">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
